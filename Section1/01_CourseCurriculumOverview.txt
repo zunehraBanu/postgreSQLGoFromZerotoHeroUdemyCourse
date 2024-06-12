@@ -1,0 +1,18 @@
+Syeda Zunehra Banu 6th June 2024
+
+1. To begin you will Install PostgreSQL 
+2. Databses and Tables basics,
+   SQL statements fundamentals,
+   GROUP BY Clause,
+   Assessment Test1
+3. JOINS,
+   Advanced SQL,
+   Commands,
+   Assessment Test2
+4. Create databses and tables
+   Assessment Test3
+
+Extra lectures:
+   views,
+   PostgreSQL with Python
+   Special offers

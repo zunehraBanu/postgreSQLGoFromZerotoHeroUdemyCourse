@@ -1,0 +1,67 @@
+6th June 2024
+
+1. What are databses?
+2. Why use databses?
+
+			Definition
+1.Databases are systems that allow users to store and organize data.
+2.They are useful when dealing with large amounts of data.
+
+			Typical Users
+▪️Databases have a wide variety of users!
+▪️Analysts
+    -Marketing
+    -Business
+    -Sales
+▪️Technical
+     -Data Scientist
+▪️Basically anyone needing to deal with data!
+
+			From Spreadsheets to Databases
+▪️Spreadsheets
+      -One-time analysis
+      -Quickly need to chart something out
+      -Reasonable data set size
+      -Ability for untrained people to work with data
+▪️Databases
+      -Data integrity[meaning you dont want someone to just click on data and change it
+      -Can handle massive amounts of data
+      -Quickly combine different datasets
+      -Automate steps for re-use
+      -Can support data for websites and applications
+
+Databases options picture is saved in the folder[look at that]
+▪️PostGreSQL is a great database choice for learning how to use SQL
+▪️SQL(Structured Query Language) learned in this course can be applied to a variety of Databases or SQL based software!
+▪️SQL is the programming language used to communicate with our Database
+▪️SQL is useful for a lot of things!
+    1.Databses-
+	-MySQL
+	-PostGreSQL
+	-Oracle Databases
+	-Microsoft Access
+    2.Softwares
+	-Looker
+	-MemSQL
+	-Periscope Data
+    3. Abstractions
+	-Hive(Runs on top of Hadoop)
+	-Google's BigQuery
+	-Facebook's Presto
+
+▪️Software
+In this context, "software" refers to applications and tools that utilize SQL for various purposes, such as data analysis, business intelligence, and database management. These software products provide interfaces and functionalities that make it easier to interact with databases, run queries, visualize data, and generate reports. Examples include:
+
+	1)Looker: A business intelligence tool that allows users to explore, analyze, and share real-time business analytics easily.
+	2)MemSQL: A high-performance, distributed SQL database that can handle both transactional and analytical workloads.
+	3)Periscope Data: A data analysis platform that enables users to connect to multiple data sources, run SQL queries, and visualize 	the results.
+
+▪️Abstractions
+"Abstractions" in this context refer to higher-level frameworks or platforms that provide a simplified or specialized way of interacting with underlying databases and SQL engines. These abstractions often run on top of other systems (like Hadoop) and offer more accessible interfaces or added functionalities. Examples include:
+
+	1)Hive: An abstraction on top of Hadoop that allows for SQL-like querying of large datasets stored in Hadoop Distributed File System (HDFS).
+	2)Google's BigQuery: A serverless, highly scalable, and cost-effective multi-cloud data warehouse designed for business agility.
+	3)Facebook's Presto: A distributed SQL query engine for running interactive analytic queries against data sources of all sizes, ranging from gigabytes to petabytes.
+
+▪️In this course you will be notified if any SQL commands we learn are specific to the PostGreSQL environment
+▪️Most of the commands learned are general SQL [useful for all databases]

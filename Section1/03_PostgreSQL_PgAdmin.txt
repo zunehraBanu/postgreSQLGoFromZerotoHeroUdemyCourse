@@ -1,0 +1,5 @@
+For this course you need to install 2 things
+-PostgreSQL - SQL Engine that stores data and reads queries and return information.
+-PgAdmin - Graphical user Interface for connecting with PostgreSQL
+
+After this we downladed dvdrental.tar file and we create databse[called as dvdrental] in our pgAdmin and restore this file in pagAdmin dvdrental database

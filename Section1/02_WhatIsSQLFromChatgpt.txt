@@ -1,0 +1,35 @@
+6th June 2024
+SQL
+SQL (Structured Query Language) is a standardized programming language used for managing and manipulating relational databases. It is used to perform tasks such as querying data, updating records, creating and modifying database structures, and managing database permissions. SQL is essential for interacting with relational database management systems (RDBMS) like MySQL, PostgreSQL, Oracle, and Microsoft SQL Server.
+
+SQL is fundamental for tasks like:
+✏️Querying the database: Retrieving specific data by specifying criteria.
+✏️Inserting data: Adding new records to tables.
+✏️Updating data: Modifying existing records.
+✏️Deleting data: Removing records from tables.
+✏️Creating and managing database structures: Defining new tables, views, indexes, and other database objects.
+
+Some common SQL commands include:
+✏️SELECT: Retrieves data from one or more tables.
+✏️INSERT: Adds new data to a table.
+✏️UPDATE: Modifies existing data in a table.
+✏️DELETE: Removes data from a table.
+✏️CREATE TABLE: Creates a new table in the database.
+✏️ALTER TABLE: Modifies an existing table.
+✏️DROP TABLE: Deletes a table from the database.
+PostgreSQL (often pronounced as "Post-GRES-Q-L") is an open-source relational database management system (RDBMS) that uses SQL to interact with the data. It is known for its robustness, extensibility, and support for advanced data types and performance optimization features. 
+
+Key features of PostgreSQL include:
+✏️ACID compliance: Ensures transactions are processed reliably (Atomicity, Consistency, Isolation, Durability).
+✏️Extensibility: Allows users to define custom data types, operators, and functions.
+✏️Advanced indexing: Supports various indexing techniques like B-tree, hash, GiST, SP-GiST, GIN, and BRIN.
+✏️Concurrency control: Uses Multi-Version Concurrency Control (MVCC) to handle simultaneous operations without locking issues.
+Support for advanced data types: Includes arrays, hstore (key-value pairs), JSON, XML, and geometric data types.
+✏️Foreign keys, joins, views, triggers: Fully supports these standard SQL features.
+✏️Replication and backup: Offers robust tools for data replication and backup, including streaming replication and point-in-time recovery.
+PostgreSQL is widely used in various applications, from web and mobile applications to data warehousing and analytics. It is favored for its stability, feature richness, and strong community support.
+
+
+
+
+

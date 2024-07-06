@@ -1,0 +1,21 @@
+6th June 2024
+📌SELECT
+
+1)SELECT is the most common statement used, and it allows us to retrieve information from a table.
+2) Later on we will learn how to combine SELECT with other statements to perform more complex queries.
+
+-Example sytax for SELECT statement:
+SELECT column_name From table_name
+
+SELECT and FROM are SQL keywords, it is not mandatory to write them in capital, but we write so that it is easier to read and know which one are keywords
+
+Practice:
+-SELECT c1 FROM table_1;
+-SELECT c1,c2 FROM table_1;
+-SELECT c1,c3 FROM table_1;
+
+-SELECT * FROM table_1; This one will select each and every column and row;
+
+-In general it is not good practice to use astreik(*) in the SELECT statement if you don't really need all columns.
+-It will automatically query everything, which increases traffic between the databases server and the application, which can slow down the retrieval of results.
+important: In SQL, the DISTINCT keyword is used to return only unique (distinct) values from a specified column or a set of columns. It is not a function but a keyword that modifies the result set of a query. Therefore, it does not require parentheses.

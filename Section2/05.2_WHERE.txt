@@ -1,0 +1,20 @@
+Syeda Zunehra Banu 7th June 2024
+📌WHERE keyword
+-SELECT and WHERE are the most fundamental SQL statements and you will find yourself using them often!
+-The WHERE statement allows us to specify conditions on columns for the rows to be returned. 
+-basic syntax example:
+SELECT column1,column2 FROM table where conditions;
+-The WHERE clause appears immediate after the FROM clause of the SELECT statement.
+-The conditions are used to filter the rows returned from the SELECT statement.
+-PostgreSQL provides a variety of standard operators to construct the conditions.
+
+-Comparison Operators
+     Compare a column value to something.
+	▪️Is the price greater than $3.00?
+	▪️Is the pet's name equal to "Sam:?
+Examples:
+SELECT name,choice FROM table
+WHERE name='David';
+SELECT name,choice FROM table
+WHERE name='David' AND choice='Red' --AND is here so both the conditions should be true
+Important:  the default behavior for string comparison in a WHERE clause is case-sensitive. This means that the condition WHERE name='David' will only match rows where the value of name is exactly 'David' with the same case.
